@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8D764DFB-6424-4BA4-BF3E-4CFC082C5F91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{17ADEB18-7B92-4B77-A76E-D501C4F59C64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Food.Auth", "Food.Auth", "{6FA7C860-4206-4648-9EAD-20D81E9C1FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApi", "src\Food.Auth\AuthApi\AuthApi.csproj", "{44094D08-E870-4D73-B1D9-2887B7F9D023}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Food.ApiGateway", "Food.ApiGateway", "{59503AA0-55D4-490C-BA7A-E5BF44E8715E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "src\Food.ApiGateway\ApiGateway\ApiGateway.csproj", "{239EBD64-32DD-461B-B2BD-7E00D717F950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "src\Food.Auth\Domain\Domain.csproj", "{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\Food.Auth\Application\Application.csproj", "{204754F0-1E59-466F-B896-953CBE664F12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infracstructure", "src\Food.Auth\Infracstructure\Infracstructure.csproj", "{0D129789-B655-4B29-9951-259BD0999E60}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{187B90AC-A64A-4447-8D36-A4330F67DF2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44094D08-E870-4D73-B1D9-2887B7F9D023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44094D08-E870-4D73-B1D9-2887B7F9D023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44094D08-E870-4D73-B1D9-2887B7F9D023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44094D08-E870-4D73-B1D9-2887B7F9D023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239EBD64-32DD-461B-B2BD-7E00D717F950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239EBD64-32DD-461B-B2BD-7E00D717F950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239EBD64-32DD-461B-B2BD-7E00D717F950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239EBD64-32DD-461B-B2BD-7E00D717F950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204754F0-1E59-466F-B896-953CBE664F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204754F0-1E59-466F-B896-953CBE664F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204754F0-1E59-466F-B896-953CBE664F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204754F0-1E59-466F-B896-953CBE664F12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D129789-B655-4B29-9951-259BD0999E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D129789-B655-4B29-9951-259BD0999E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D129789-B655-4B29-9951-259BD0999E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D129789-B655-4B29-9951-259BD0999E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187B90AC-A64A-4447-8D36-A4330F67DF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187B90AC-A64A-4447-8D36-A4330F67DF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187B90AC-A64A-4447-8D36-A4330F67DF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187B90AC-A64A-4447-8D36-A4330F67DF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6FA7C860-4206-4648-9EAD-20D81E9C1FFC} = {8D764DFB-6424-4BA4-BF3E-4CFC082C5F91}
+		{44094D08-E870-4D73-B1D9-2887B7F9D023} = {6FA7C860-4206-4648-9EAD-20D81E9C1FFC}
+		{59503AA0-55D4-490C-BA7A-E5BF44E8715E} = {8D764DFB-6424-4BA4-BF3E-4CFC082C5F91}
+		{239EBD64-32DD-461B-B2BD-7E00D717F950} = {59503AA0-55D4-490C-BA7A-E5BF44E8715E}
+		{8E8A0857-079E-4C8D-B2FE-F1B46C37377D} = {6FA7C860-4206-4648-9EAD-20D81E9C1FFC}
+		{204754F0-1E59-466F-B896-953CBE664F12} = {6FA7C860-4206-4648-9EAD-20D81E9C1FFC}
+		{0D129789-B655-4B29-9951-259BD0999E60} = {6FA7C860-4206-4648-9EAD-20D81E9C1FFC}
+	EndGlobalSection
+EndGlobal

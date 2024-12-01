@@ -1,0 +1,9 @@
+services:
+  authdb:
+    container_name: authdb
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=@bc123
+    restart: always
+    ports:
+      - "1433:1433"

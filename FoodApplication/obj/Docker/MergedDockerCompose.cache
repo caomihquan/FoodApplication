@@ -1,0 +1,19 @@
+name: dockercompose7368357247013351961
+services:
+  authdb:
+    container_name: authdb
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: '@bc123'
+    image: mcr.microsoft.com/mssql/server
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+    restart: always
+networks:
+  default:
+    name: dockercompose7368357247013351961_default

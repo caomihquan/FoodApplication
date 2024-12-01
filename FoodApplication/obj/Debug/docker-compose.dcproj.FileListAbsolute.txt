@@ -1,0 +1,1 @@
+D:\Project\.NET\FoodApplication\FoodApplication\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

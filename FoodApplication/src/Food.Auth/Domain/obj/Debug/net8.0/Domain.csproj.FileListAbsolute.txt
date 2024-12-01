@@ -1,0 +1,13 @@
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\bin\Debug\net8.0\Domain.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\obj\Debug\net8.0\Domain.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.Auth\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
