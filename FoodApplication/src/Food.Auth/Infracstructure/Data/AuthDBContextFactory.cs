@@ -8,7 +8,7 @@ namespace Infracstructure.Data
     {
         public AuthDBContext CreateDbContext(string[] args)
         {
-            IConfigurationRoot configuration = new Microsoft.Extensions.Configuration.ConfigurationBuilder()
+            IConfigurationRoot configuration = new ConfigurationBuilder()
                .SetBasePath(Directory.GetCurrentDirectory())
                .AddJsonFile("appsettings.json")
                .Build();

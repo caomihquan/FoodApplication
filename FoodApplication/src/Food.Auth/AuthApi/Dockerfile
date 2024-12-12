@@ -13,9 +13,9 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["src/Food.Auth/AuthApi/AuthApi.csproj", "src/Food.Auth/AuthApi/"]
-COPY ["src/Food.Auth/Infracstructure/Infracstructure.csproj", "src/Food.Auth/Infracstructure/"]
 COPY ["src/Food.Auth/Application/Application.csproj", "src/Food.Auth/Application/"]
 COPY ["src/Food.Auth/Domain/Domain.csproj", "src/Food.Auth/Domain/"]
+COPY ["src/Food.Auth/Infracstructure/Infracstructure.csproj", "src/Food.Auth/Infracstructure/"]
 RUN dotnet restore "./src/Food.Auth/AuthApi/AuthApi.csproj"
 COPY . .
 WORKDIR "/src/src/Food.Auth/AuthApi"

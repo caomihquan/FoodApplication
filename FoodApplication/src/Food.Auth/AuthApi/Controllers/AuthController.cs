@@ -11,7 +11,6 @@ namespace AuthApi.Controllers
     [Route("api/[controller]")]
     public class AuthController(UserManager<AppUser> _userManager, ITokenService _tokenService) : ControllerBase
     {
-        [Authorize]
         [HttpGet("user")]
         public IActionResult GetUserData()
         {

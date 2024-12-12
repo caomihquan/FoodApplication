@@ -28,3 +28,16 @@ D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\o
 D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.pdb
 D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.genruntimeconfig.cache
 D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\bin\Debug\net8.0\appsettings.Local.json
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\bin\Debug\net8.0\System.IO.Hashing.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.AssemblyReference.cache
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.Up2Date
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\.NET\FoodApplication\FoodApplication\src\Food.ApiGateway\ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

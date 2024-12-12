@@ -3,7 +3,22 @@ services:
     container_name: authdb
     environment:
       - ACCEPT_EULA=Y
-      - SA_PASSWORD=@bc123
+      - SA_PASSWORD=@bc123456
     restart: always
     ports:
       - "1433:1433"
+
+  authapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      - ASPNETCORE_HTTPS_PORTS=8081
+      - ConnectionStrings__Database=Server=authdb, 1433;Database=authdb;User Id=sa;Password=@bc123456;Encrypt=False;TrustServerCertificate=True
+    depends_on:
+      - authdb
+    ports:
+      - "6001:8080"
+      - "6061:8081"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro

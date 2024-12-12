@@ -1,3 +1,10 @@
 services:
   authdb:
     image: mcr.microsoft.com/mssql/server
+
+  authapi:
+    image: ${DOCKER_REGISTRY-}authapi
+    build:
+      context: .
+      dockerfile: src/Food.Auth/AuthApi/Dockerfile
+
