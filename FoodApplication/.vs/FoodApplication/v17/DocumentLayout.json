@@ -3,6 +3,226 @@
   "WorkspaceRootPath": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.discount\\discountgrpc\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:src\\food.discount\\discountgrpc\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.basket\\basketapi\\basket\\storebasket\\storebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.basket\\basketapi\\basket\\storebasket\\storebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.basket\\basketapi\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.basket\\basketapi\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.basket\\basketapi\\basket\\getbasket\\getbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.basket\\basketapi\\basket\\getbasket\\getbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|d:\\project\\.net\\foodapplication\\foodapplication\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.discount\\discountgrpc\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.discount\\discountgrpc\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|d:\\project\\.net\\foodapplication\\foodapplication\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.basket\\basketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.basket\\basketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.basket\\basketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.basket\\basketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|d:\\project\\.net\\foodapplication\\foodapplication\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.basket\\basketapi\\basket\\storebasket\\storebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.basket\\basketapi\\basket\\storebasket\\storebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.basket\\basketapi\\basket\\getbasket\\getbasketendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.basket\\basketapi\\basket\\getbasket\\getbasketendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.discount\\discountgrpc\\data\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:src\\food.discount\\discountgrpc\\data\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.discount\\discountgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:src\\food.discount\\discountgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.discount\\discountgrpc\\data\\migrations\\20241214144208_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:src\\food.discount\\discountgrpc\\data\\migrations\\20241214144208_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\DiscountGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Food.Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\DiscountGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.discount\\discountgrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:src\\food.discount\\discountgrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.discount\\discountgrpc\\data\\discountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:src\\food.discount\\discountgrpc\\data\\discountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.discount\\discountgrpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:src\\food.discount\\discountgrpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.discount\\discountgrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:src\\food.discount\\discountgrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.discount\\discountgrpc\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA422B7-8978-49C5-9DC4-ABFC43E10881}|src\\Food.Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:src\\food.discount\\discountgrpc\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.basket\\basketapi\\models\\foodcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.basket\\basketapi\\models\\foodcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.basket\\basketapi\\models\\foodcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.basket\\basketapi\\models\\foodcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\buildingblocks\\buildingblocks\\exceptions\\handler\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\exceptions\\handler\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\buildingblocks\\buildingblocks\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.basket\\basketapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.basket\\basketapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.basket\\basketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.basket\\basketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.basket\\basketapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5347A634-5DB6-4096-BC0F-062E86CA20C3}|src\\Food.Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:src\\food.basket\\basketapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\buildingblocks\\buildingblocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\buildingblocks\\buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\buildingblocks\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\buildingblocks\\buildingblocks\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\buildingblocks\\buildingblocks\\exceptions\\internalserverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\exceptions\\internalserverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\buildingblocks\\buildingblocks\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\buildingblocks\\buildingblocks\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC2FF88C-171E-4C49-A19A-A514F1EAFB4B}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\extenstions\\databaseextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\extenstions\\databaseextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\data\\authdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\data\\authdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\infracstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\infracstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|solutionrelative:src\\food.auth\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|solutionrelative:src\\food.auth\\application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\domain\\entity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|solutionrelative:src\\food.auth\\domain\\entity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\domain\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|solutionrelative:src\\food.auth\\domain\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\domain\\entity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|solutionrelative:src\\food.auth\\domain\\entity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|solutionrelative:src\\food.auth\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{239EBD64-32DD-461B-B2BD-7E00D717F950}|src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.apigateway\\apigateway\\configuration\\yarpconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{239EBD64-32DD-461B-B2BD-7E00D717F950}|src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj|solutionrelative:src\\food.apigateway\\apigateway\\configuration\\yarpconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,10 +235,6 @@
       "RelativeMoniker": "D:0:0:{239EBD64-32DD-461B-B2BD-7E00D717F950}|src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj|solutionrelative:src\\food.apigateway\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{239EBD64-32DD-461B-B2BD-7E00D717F950}|src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.apigateway\\apigateway\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{239EBD64-32DD-461B-B2BD-7E00D717F950}|src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj|solutionrelative:src\\food.apigateway\\apigateway\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -27,32 +243,12 @@
       "RelativeMoniker": "D:0:0:{239EBD64-32DD-461B-B2BD-7E00D717F950}|src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj|solutionrelative:src\\food.apigateway\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\authapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\authapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{239EBD64-32DD-461B-B2BD-7E00D717F950}|src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.apigateway\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{239EBD64-32DD-461B-B2BD-7E00D717F950}|src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj|solutionrelative:src\\food.apigateway\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{239EBD64-32DD-461B-B2BD-7E00D717F950}|src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.apigateway\\apigateway\\apigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -67,44 +263,8 @@
       "RelativeMoniker": "D:0:0:{239EBD64-32DD-461B-B2BD-7E00D717F950}|src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj|solutionrelative:src\\food.apigateway\\apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|d:\\project\\.net\\foodapplication\\foodapplication\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|d:\\project\\.net\\foodapplication\\foodapplication\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|solutionrelative:src\\food.auth\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\extenstions\\databaseextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\extenstions\\databaseextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\infracstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\infracstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\data\\authdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\data\\authdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\domain\\entity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|solutionrelative:src\\food.auth\\domain\\entity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|solutionrelative:src\\food.auth\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|d:\\project\\.net\\foodapplication\\foodapplication\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|d:\\project\\.net\\foodapplication\\foodapplication\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -115,34 +275,6 @@
       "RelativeMoniker": "D:0:0:{44094D08-E870-4D73-B1D9-2887B7F9D023}|src\\Food.Auth\\AuthApi\\AuthApi.csproj|solutionrelative:src\\food.auth\\authapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|solutionrelative:src\\food.auth\\application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\domain\\entity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|solutionrelative:src\\food.auth\\domain\\entity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\domain\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E8A0857-079E-4C8D-B2FE-F1B46C37377D}|src\\Food.Auth\\Domain\\Domain.csproj|solutionrelative:src\\food.auth\\domain\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\application\\dtos\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|solutionrelative:src\\food.auth\\application\\dtos\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|solutionrelative:src\\food.auth\\application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -150,16 +282,12 @@
       "RelativeMoniker": "D:0:0:{187B90AC-A64A-4447-8D36-A4330F67DF2D}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\data\\migrations\\20241201013813_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\data\\migrations\\20241201013813_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Migrations\\20241201012211_InitDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Food.Auth\\Infracstructure\\Migrations\\20241201012211_InitDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{204754F0-1E59-466F-B896-953CBE664F12}|src\\Food.Auth\\Application\\Application.csproj|solutionrelative:src\\food.auth\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|d:\\project\\.net\\foodapplication\\foodapplication\\src\\food.auth\\infracstructure\\data\\migrations\\20241214073151_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D129789-B655-4B29-9951-259BD0999E60}|src\\Food.Auth\\Infracstructure\\Infracstructure.csproj|solutionrelative:src\\food.auth\\infracstructure\\data\\migrations\\20241214073151_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -169,7 +297,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 28,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -257,118 +385,748 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "discount.proto",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Protos\\discount.proto",
+              "RelativeDocumentMoniker": "src\\Food.Discount\\DiscountGrpc\\Protos\\discount.proto",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Protos\\discount.proto",
+              "RelativeToolTip": "src\\Food.Discount\\DiscountGrpc\\Protos\\discount.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-14T15:09:01.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "src\\Food.Discount\\DiscountGrpc\\Services\\DiscountService.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Services\\DiscountService.cs",
+              "RelativeToolTip": "src\\Food.Discount\\DiscountGrpc\\Services\\DiscountService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:08:26.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-30T10:47:40.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Data\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "src\\Food.Basket\\BasketAPI\\Data\\BasketRepository.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Data\\BasketRepository.cs",
+              "RelativeToolTip": "src\\Food.Basket\\BasketAPI\\Data\\BasketRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAIAywEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:36:08.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreBasketHandler.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "RelativeDocumentMoniker": "src\\Food.Basket\\BasketAPI\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "RelativeToolTip": "src\\Food.Basket\\BasketAPI\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAxwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:45:13.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetBasketHandler.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Basket\\GetBasket\\GetBasketHandler.cs",
+              "RelativeDocumentMoniker": "src\\Food.Basket\\BasketAPI\\Basket\\GetBasket\\GetBasketHandler.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Basket\\GetBasket\\GetBasketHandler.cs",
+              "RelativeToolTip": "src\\Food.Basket\\BasketAPI\\Basket\\GetBasket\\GetBasketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:16:40.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Food.Basket\\BasketAPI\\appsettings.json",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\appsettings.json",
+              "RelativeToolTip": "src\\Food.Basket\\BasketAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T09:19:04.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-30T10:45:17.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-01T11:14:49.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreBasketEndpoints.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "RelativeDocumentMoniker": "src\\Food.Basket\\BasketAPI\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "RelativeToolTip": "src\\Food.Basket\\BasketAPI\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:45:03.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetBasketEndpoint.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Basket\\GetBasket\\GetBasketEndpoint.cs",
+              "RelativeDocumentMoniker": "src\\Food.Basket\\BasketAPI\\Basket\\GetBasket\\GetBasketEndpoint.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Basket\\GetBasket\\GetBasketEndpoint.cs",
+              "RelativeToolTip": "src\\Food.Basket\\BasketAPI\\Basket\\GetBasket\\GetBasketEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:16:19.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Food.Basket\\BasketAPI\\Program.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Program.cs",
+              "RelativeToolTip": "src\\Food.Basket\\BasketAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wB4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:48:24.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "src\\Food.Discount\\DiscountGrpc\\Models\\Coupon.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Models\\Coupon.cs",
+              "RelativeToolTip": "src\\Food.Discount\\DiscountGrpc\\Models\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:12:16.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DiscountContext.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Data\\DiscountContext.cs",
+              "RelativeDocumentMoniker": "src\\Food.Discount\\DiscountGrpc\\Data\\DiscountContext.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Data\\DiscountContext.cs",
+              "RelativeToolTip": "src\\Food.Discount\\DiscountGrpc\\Data\\DiscountContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:17:43.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Extentions.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Data\\Extentions.cs",
+              "RelativeDocumentMoniker": "src\\Food.Discount\\DiscountGrpc\\Data\\Extentions.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Data\\Extentions.cs",
+              "RelativeToolTip": "src\\Food.Discount\\DiscountGrpc\\Data\\Extentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:17:46.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\Food.Discount\\DiscountGrpc\\Dockerfile",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Dockerfile",
+              "RelativeToolTip": "src\\Food.Discount\\DiscountGrpc\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-14T14:20:45.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Food.Discount\\DiscountGrpc\\appsettings.json",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\appsettings.json",
+              "RelativeToolTip": "src\\Food.Discount\\DiscountGrpc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T14:20:46.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DiscountGrpc.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\DiscountGrpc.cs",
+              "RelativeDocumentMoniker": "src\\Food.Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\DiscountGrpc.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\DiscountGrpc.cs",
+              "RelativeToolTip": "src\\Food.Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\DiscountGrpc.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAlwDAAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:39:56.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241214144208_InitDb.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Data\\Migrations\\20241214144208_InitDb.cs",
+              "RelativeDocumentMoniker": "src\\Food.Discount\\DiscountGrpc\\Data\\Migrations\\20241214144208_InitDb.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Data\\Migrations\\20241214144208_InitDb.cs",
+              "RelativeToolTip": "src\\Food.Discount\\DiscountGrpc\\Data\\Migrations\\20241214144208_InitDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:42:08.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Food.Discount\\DiscountGrpc\\Program.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Program.cs",
+              "RelativeToolTip": "src\\Food.Discount\\DiscountGrpc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:03:54.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Food.Discount\\DiscountGrpc\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Discount\\DiscountGrpc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Food.Discount\\DiscountGrpc\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T14:25:20.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FoodCart.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Models\\FoodCart.cs",
+              "RelativeDocumentMoniker": "src\\Food.Basket\\BasketAPI\\Models\\FoodCart.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Models\\FoodCart.cs",
+              "RelativeToolTip": "src\\Food.Basket\\BasketAPI\\Models\\FoodCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:18:22.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FoodCartItem.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Models\\FoodCartItem.cs",
+              "RelativeDocumentMoniker": "src\\Food.Basket\\BasketAPI\\Models\\FoodCartItem.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Models\\FoodCartItem.cs",
+              "RelativeToolTip": "src\\Food.Basket\\BasketAPI\\Models\\FoodCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:49:17.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\appsettings.json",
               "RelativeDocumentMoniker": "src\\Food.Auth\\AuthApi\\appsettings.json",
               "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\appsettings.json",
               "RelativeToolTip": "src\\Food.Auth\\AuthApi\\appsettings.json",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-30T10:53:53.216Z"
+              "WhenOpened": "2024-11-30T10:53:53.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.Local.json",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\appsettings.Local.json",
-              "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\appsettings.Local.json",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\appsettings.Local.json",
-              "RelativeToolTip": "src\\Food.ApiGateway\\ApiGateway\\appsettings.Local.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T15:01:15.032Z"
+              "DocumentIndex": 24,
+              "Title": "CustomExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAlwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:52:30.401Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 25,
+              "Title": "LoggingBehavior.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:36:57.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Food.Basket\\BasketAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Food.Basket\\BasketAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T09:26:49.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\Food.Basket\\BasketAPI\\Dockerfile",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\Dockerfile",
+              "RelativeToolTip": "src\\Food.Basket\\BasketAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-14T09:28:03.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\AuthApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Food.Auth\\AuthApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAABXwB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T10:19:43.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "src\\Food.Basket\\BasketAPI\\GlobalUsing.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Basket\\BasketAPI\\GlobalUsing.cs",
+              "RelativeToolTip": "src\\Food.Basket\\BasketAPI\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:19:25.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:31:51.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:31:50.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:31:49.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:31:47.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InternalServerException.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:26:31.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:26:32.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:26:30.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BuildingBlocks.csproj",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T08:11:38.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\AuthApi\\Program.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\Program.cs",
+              "RelativeToolTip": "src\\Food.Auth\\AuthApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:43:25.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AuthDBContext.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Data\\AuthDBContext.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Data\\AuthDBContext.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Data\\AuthDBContext.cs",
+              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Data\\AuthDBContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:17:07.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthApi.csproj",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\AuthApi.csproj",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\AuthApi\\AuthApi.csproj",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\AuthApi.csproj",
+              "RelativeToolTip": "src\\Food.Auth\\AuthApi\\AuthApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T01:11:51.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBRwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:36:53.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DatabaseExtentions.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Extenstions\\DatabaseExtentions.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Extenstions\\DatabaseExtentions.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Extenstions\\DatabaseExtentions.cs",
+              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Extenstions\\DatabaseExtentions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA4wBMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:26:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuthDBContextFactory.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Data\\AuthDBContextFactory.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Data\\AuthDBContextFactory.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Data\\AuthDBContextFactory.cs",
+              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Data\\AuthDBContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:39:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Infracstructure.csproj",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Infracstructure.csproj",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Infracstructure.csproj",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Infracstructure.csproj",
+              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Infracstructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T15:11:09.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20241214073151_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Data\\Migrations\\20241214073151_InitialMigration.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Data\\Migrations\\20241214073151_InitialMigration.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Data\\Migrations\\20241214073151_InitialMigration.cs",
+              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Data\\Migrations\\20241214073151_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:31:51.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Services\\ITokenService.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Services\\ITokenService.cs",
+              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:04:29.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "src\\Food.Auth\\AuthApi\\DependencyInjection.cs",
               "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\DependencyInjection.cs",
               "RelativeToolTip": "src\\Food.Auth\\AuthApi\\DependencyInjection.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBIAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:17:56.742Z"
+              "WhenOpened": "2024-12-12T15:02:45.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 45,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "src\\Food.Auth\\AuthApi\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\Controllers\\AuthController.cs",
               "RelativeToolTip": "src\\Food.Auth\\AuthApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAADwvwsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvw8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T10:03:35.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\Properties\\launchSettings.json",
-              "RelativeToolTip": "src\\Food.ApiGateway\\ApiGateway\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T15:02:06.302Z"
+              "DocumentIndex": 47,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Services\\TokenService.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvx8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:51:30.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApiGateway.csproj",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj",
-              "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj",
-              "RelativeToolTip": "src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAANAAAAAAAAAA==",
+              "DocumentIndex": 50,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Application\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "src\\Food.Auth\\Application\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:50:05.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Food.Auth\\Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:43:42.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Entity\\AppUser.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Domain\\Entity\\AppUser.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Entity\\AppUser.cs",
+              "RelativeToolTip": "src\\Food.Auth\\Domain\\Entity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:00:15.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Domain\\Entity\\BaseEntity.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Food.Auth\\Domain\\Entity\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:28:02.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Entity\\AppRole.cs",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Domain\\Entity\\AppRole.cs",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Entity\\AppRole.cs",
+              "RelativeToolTip": "src\\Food.Auth\\Domain\\Entity\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:52:45.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "src\\Food.Auth\\Application\\Application.csproj",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\Application.csproj",
+              "RelativeToolTip": "src\\Food.Auth\\Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-02T15:45:52.509Z"
+              "WhenOpened": "2024-11-30T10:30:46.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthApi.csproj",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\AuthApi.csproj",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\AuthApi\\AuthApi.csproj",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\AuthApi.csproj",
-              "RelativeToolTip": "src\\Food.Auth\\AuthApi\\AuthApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-01T01:11:51.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 55,
               "Title": "YarpConfig.cs",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\Configuration\\YarpConfig.cs",
               "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\Configuration\\YarpConfig.cs",
               "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\Configuration\\YarpConfig.cs",
               "RelativeToolTip": "src\\Food.ApiGateway\\ApiGateway\\Configuration\\YarpConfig.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T15:31:40.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\appsettings.json",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\appsettings.json",
-              "RelativeToolTip": "src\\Food.ApiGateway\\ApiGateway\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T14:58:34.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 56,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\Program.cs",
               "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\Program.cs",
@@ -381,42 +1139,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\AuthApi\\Program.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\Program.cs",
-              "RelativeToolTip": "src\\Food.Auth\\AuthApi\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:43:25.101Z"
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\appsettings.json",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "src\\Food.ApiGateway\\ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T14:58:34.275Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 59,
+              "Title": "ApiGateway.csproj",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T15:45:52.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Food.ApiGateway\\ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAABHwAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T15:02:06.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "appsettings.Local.json",
+              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\appsettings.Local.json",
+              "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\appsettings.Local.json",
+              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\appsettings.Local.json",
+              "RelativeToolTip": "src\\Food.ApiGateway\\ApiGateway\\appsettings.Local.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T15:01:15.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
               "Title": "AuthApi",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\AuthApi.csproj",
               "RelativeDocumentMoniker": "src\\Food.Auth\\AuthApi\\AuthApi.csproj",
               "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\AuthApi.csproj",
               "RelativeToolTip": "src\\Food.Auth\\AuthApi\\AuthApi.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-01T10:19:41.936Z"
+              "WhenOpened": "2024-12-01T10:19:41.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\AuthApi\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "src\\Food.Auth\\AuthApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-01T10:19:43.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 63,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\Dockerfile",
               "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\Dockerfile",
@@ -424,34 +1211,24 @@
               "RelativeToolTip": "src\\Food.ApiGateway\\ApiGateway\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-02T15:03:37.084Z"
+              "WhenOpened": "2024-12-02T15:03:37.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Application.csproj",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Application\\Application.csproj",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\Application.csproj",
-              "RelativeToolTip": "src\\Food.Auth\\Application\\Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-30T10:30:46.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 62,
               "Title": "ApiGateway",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj",
               "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj",
               "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj",
               "RelativeToolTip": "src\\Food.ApiGateway\\ApiGateway\\ApiGateway.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-02T15:08:44.921Z"
+              "WhenOpened": "2024-12-02T15:08:44.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 64,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.ApiGateway\\ApiGateway\\appsettings.Development.json",
               "RelativeDocumentMoniker": "src\\Food.ApiGateway\\ApiGateway\\appsettings.Development.json",
@@ -459,95 +1236,12 @@
               "RelativeToolTip": "src\\Food.ApiGateway\\ApiGateway\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T15:02:52.28Z"
+              "WhenOpened": "2024-12-02T15:02:52.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AuthDBContextFactory.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Data\\AuthDBContextFactory.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Data\\AuthDBContextFactory.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Data\\AuthDBContextFactory.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Data\\AuthDBContextFactory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIAxwAsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:20:03.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AuthDBContext.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Data\\AuthDBContext.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Data\\AuthDBContext.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Data\\AuthDBContext.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Data\\AuthDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:17:07.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AppRole.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Entity\\AppRole.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Domain\\Entity\\AppRole.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Entity\\AppRole.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Domain\\Entity\\AppRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T00:52:45.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "docker-compose.dcproj",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\docker-compose.dcproj",
-              "RelativeDocumentMoniker": "docker-compose.dcproj",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\docker-compose.dcproj",
-              "RelativeToolTip": "docker-compose.dcproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-01T11:14:49.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-11-30T10:47:40.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Infracstructure.csproj",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Infracstructure.csproj",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Infracstructure.csproj",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Infracstructure.csproj",
-              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Infracstructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-01T09:58:53.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DatabaseExtentions.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Extenstions\\DatabaseExtentions.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Extenstions\\DatabaseExtentions.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Extenstions\\DatabaseExtentions.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Extenstions\\DatabaseExtentions.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAkAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:26:23.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 66,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\launchSettings.json",
               "RelativeDocumentMoniker": "launchSettings.json",
@@ -555,11 +1249,12 @@
               "RelativeToolTip": "launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-30T11:01:53.762Z"
+              "WhenOpened": "2024-11-30T11:01:53.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 67,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\AuthApi\\Dockerfile",
               "RelativeDocumentMoniker": "src\\Food.Auth\\AuthApi\\Dockerfile",
@@ -567,11 +1262,12 @@
               "RelativeToolTip": "src\\Food.Auth\\AuthApi\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-30T10:44:58.624Z"
+              "WhenOpened": "2024-11-30T10:44:58.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 65,
               "Title": "Domain.csproj",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "src\\Food.Auth\\Domain\\Domain.csproj",
@@ -579,117 +1275,23 @@
               "RelativeToolTip": "src\\Food.Auth\\Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-30T10:31:57.736Z"
+              "WhenOpened": "2024-11-30T10:31:57.736Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\DependencyInjection.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\DependencyInjection.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:36:53.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Services\\TokenService.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Services\\TokenService.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Services\\TokenService.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAvwBkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:51:30.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-11-30T10:45:17.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\Interfaces\\ITokenService.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Application\\Interfaces\\ITokenService.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\Interfaces\\ITokenService.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Application\\Interfaces\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:49:47.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Entity\\AppUser.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Domain\\Entity\\AppUser.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Entity\\AppUser.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Domain\\Entity\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T10:00:15.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "TokenResponse.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\DTOs\\TokenResponse.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Application\\DTOs\\TokenResponse.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\DTOs\\TokenResponse.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Application\\DTOs\\TokenResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:50:19.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Entity\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Domain\\Entity\\BaseEntity.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Domain\\Entity\\BaseEntity.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Domain\\Entity\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:28:02.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\DTOs\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Application\\DTOs\\LoginRequest.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\DTOs\\LoginRequest.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Application\\DTOs\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:50:05.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 68,
               "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "ViewState": "AgIAAKQBAAAAAAAAAIA1wKoBAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-11-30T11:16:29.115Z"
+              "WhenOpened": "2024-11-30T11:16:29.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 69,
               "Title": ".dockerignore",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
@@ -697,23 +1299,12 @@
               "RelativeToolTip": ".dockerignore",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-30T11:09:22.838Z"
+              "WhenOpened": "2024-11-30T11:09:22.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "20241201013813_InitDb.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Data\\Migrations\\20241201013813_InitDb.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Data\\Migrations\\20241201013813_InitDb.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Data\\Migrations\\20241201013813_InitDb.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Data\\Migrations\\20241201013813_InitDb.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAxwFAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:38:13.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 70,
               "Title": "20241201012211_InitDb.cs",
               "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Infracstructure\\Migrations\\20241201012211_InitDb.cs",
               "RelativeDocumentMoniker": "src\\Food.Auth\\Infracstructure\\Migrations\\20241201012211_InitDb.cs",
@@ -721,18 +1312,6 @@
               "RelativeToolTip": "src\\Food.Auth\\Infracstructure\\Migrations\\20241201012211_InitDb.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T01:22:11.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "src\\Food.Auth\\Application\\DependencyInjection.cs",
-              "ToolTip": "D:\\Project\\.NET\\FoodApplication\\FoodApplication\\src\\Food.Auth\\Application\\DependencyInjection.cs",
-              "RelativeToolTip": "src\\Food.Auth\\Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:43:42.881Z"
             }
           ]
         }

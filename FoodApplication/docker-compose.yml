@@ -1,10 +1,30 @@
 services:
   authdb:
-    image: mcr.microsoft.com/mssql/server
+    image: postgres
+  
+  basketdb:
+    image: mongo
 
   authapi:
     image: ${DOCKER_REGISTRY-}authapi
     build:
       context: .
       dockerfile: src/Food.Auth/AuthApi/Dockerfile
+
+  basketapi:
+    image: ${DOCKER_REGISTRY-}basketapi
+    build:
+      context: .
+      dockerfile: src/Food.Basket/BasketAPI/Dockerfile
+
+  discountgrpc:
+    image: ${DOCKER_REGISTRY-}discountgrpc
+    build:
+      context: .
+      dockerfile: src/Food.Discount/DiscountGrpc/Dockerfile
+
+volumes:
+  postgres_auth:
+  mongo_baset:
+
 

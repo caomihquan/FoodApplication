@@ -1,5 +1,4 @@
-﻿using Application.Interfaces;
-using Domain.Entity;
+﻿using Domain.Entity;
 using Infracstructure.Data;
 using Infracstructure.Services;
 using Microsoft.EntityFrameworkCore;
@@ -13,9 +12,7 @@ public static class DependencyInjection
         (this IServiceCollection services, IConfiguration configuration)
     {
         services.AddDbContext<AuthDBContext>(options =>
-        options.UseSqlServer(configuration.GetConnectionString("Database")));
-        
-
+        options.UseNpgsql(configuration.GetConnectionString("Database")));
         services.AddScoped<ITokenService, TokenService>();
         return services;
     }

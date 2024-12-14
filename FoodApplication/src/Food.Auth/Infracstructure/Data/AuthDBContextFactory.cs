@@ -8,13 +8,19 @@ namespace Infracstructure.Data
     {
         public AuthDBContext CreateDbContext(string[] args)
         {
-            IConfigurationRoot configuration = new ConfigurationBuilder()
-               .SetBasePath(Directory.GetCurrentDirectory())
-               .AddJsonFile("appsettings.json")
-               .Build();
+            // Build configuration
+            var configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .Build();
 
+            // Get the connection string
+            var connectionString = configuration.GetConnectionString("Database");
+
+            // Configure DbContext options
             var optionsBuilder = new DbContextOptionsBuilder<AuthDBContext>();
-            optionsBuilder.UseSqlServer(configuration.GetConnectionString("Database"));
+            optionsBuilder.UseNpgsql(connectionString);
+
             return new AuthDBContext(optionsBuilder.Options);
         }
     }

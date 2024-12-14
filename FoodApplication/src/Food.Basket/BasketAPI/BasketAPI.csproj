@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>c996cf8c-1766-4ef6-8192-243b596ffc17</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..</DockerfileContext>
+    <DockerComposeProjectPath>..\..\..\docker-compose.dcproj</DockerComposeProjectPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Carter" Version="8.2.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
+	<PackageReference Include="AspNetCore.HealthChecks.Redis" Version="8.0.1" />
+	<PackageReference Include="Grpc.AspNetCore" Version="2.49.0" />
+	<PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="8.0.10" />
+	<PackageReference Include="AspNetCore.HealthChecks.NpgSql" Version="8.0.2" />
+	<PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="8.0.1" />
+	<PackageReference Include="MongoDB.Driver" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\BuildingBlocks\BuildingBlocks\BuildingBlocks.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Basket\RemoveBasket\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="..\..\Food.Discount\DiscountGrpc\Protos\discount.proto" GrpcServices="Client">
+      <Link>Protos\discount.proto</Link>
+    </Protobuf>
+  </ItemGroup>
+
+</Project>

@@ -1,19 +1,66 @@
 name: dockercompose7368357247013351961
 services:
-  authdb:
-    container_name: authdb
+  authapi:
+    build:
+      context: D:\Project\.NET\FoodApplication\FoodApplication
+      dockerfile: src/Food.Auth/AuthApi/Dockerfile
+    depends_on:
+      authdb:
+        condition: service_started
+        required: true
     environment:
-      ACCEPT_EULA: "Y"
-      SA_PASSWORD: '@bc123'
-    image: mcr.microsoft.com/mssql/server
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ConnectionStrings__Database: Server=authdb, 1433;Database=authdb;User Id=sa;Password=@bc123456;Encrypt=False;TrustServerCertificate=True
+    image: authapi
     networks:
       default: null
     ports:
       - mode: ingress
-        target: 1433
-        published: "1433"
+        target: 8080
+        published: "6001"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "6061"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\caomi\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\caomi\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  authdb:
+    container_name: authdb
+    environment:
+      POSTGRES_DB: Authdb
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    image: postgres
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
         protocol: tcp
     restart: always
+    volumes:
+      - type: volume
+        source: postgres_auth
+        target: /var/lib/postgresql/data
+        volume: {}
 networks:
   default:
     name: dockercompose7368357247013351961_default
+volumes:
+  postgres_auth:
+    name: dockercompose7368357247013351961_postgres_auth
